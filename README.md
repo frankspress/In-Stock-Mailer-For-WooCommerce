@@ -1,14 +1,25 @@
 # In Stock Mailer For WooCommerce
-Sends in-stock alert to your customers automatically, adds custom aler button and email.
+![](assets/banner-772x250.png)
 
-[Plugin page](https://wordpress.org/plugins/in-stock-mailer-for-woocommerce/)
+> Sends in-stock alert to your customers automatically, adds custom aler button and email.
+
+[Plugin Home Page](https://wordpress.org/plugins/in-stock-mailer-for-woocommerce/)
 
 ## How To Install
-- Download the zip file
+- Download the zip file only
 - Go to your admin page on your WordPress installation
 - Add New -> Upload Plugin -> Choose File -> Install
 - Once installed go to Settings -> In Stock Mailer WC and personalize it.
 - At the bottom of General Settings run "Send Email Test"
+
+## Screenshots
+![](assets/screenshot-1.png)
+
+![](assets/screenshot-2.png)
+
+![](assets/screenshot-3.png)
+
+![](assets/screenshot-4.png)
 
 ## FAQ
 
