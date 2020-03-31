@@ -1,7 +1,7 @@
 # In Stock Mailer For WooCommerce
 ![](assets/banner-772x250.png)
 
-> Sends in-stock alert to your customers automatically, adds custom aler button and email.
+> Sends in-stock alert to your customers automatically, adds custom alert button and email.
 
 [Plugin Home Page](https://wordpress.org/plugins/in-stock-mailer-for-woocommerce/)
 
